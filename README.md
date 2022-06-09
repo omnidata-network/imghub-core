@@ -1,4 +1,6 @@
-# Img 8 core
+# Omnidata imghub core
+
+Migrated from the [Img8 protocol](https://github.com/img8io/img8-core)
 
 A gateway for web3 developer and creators to easily retrieving images from decentralized storage networks (IPFS/Filecoin). Beyond that it's also a protocol to optimize and process images.
 

@@ -1,7 +1,7 @@
 {
-  "name": "img8",
-  "version": "0.0.1",
-  "description": "Img8 protocol",
+  "name": "imghub-core",
+  "version": "0.1.1",
+  "description": "Omnidata protocol - imghub",
   "author": "Meta Foundation Ltd.",
   "private": true,
   "license": "MIT",
